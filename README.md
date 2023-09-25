@@ -10,4 +10,4 @@ HTML5 ve CSS3 kodları ile tasarım yaptım.
 
 <h2> Ekran Görüntüsü </h2>
 
-![](Udemig%20Software%20-%20Google%20Chrome%202023-09-15%2020-49-51.mp4)
+![](ezgif.com-video-to-gif.gif)
